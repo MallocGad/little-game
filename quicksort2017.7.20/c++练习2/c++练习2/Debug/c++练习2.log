@@ -1,0 +1,2 @@
+﻿  c++练习2.cpp
+d:\c++\quicksort2017.7.20\c++练习2\c++练习2\c++练习2.cpp(40): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

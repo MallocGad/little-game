@@ -1,0 +1,10 @@
+﻿  MainTank.cpp
+d:\c++\quicksort2017.7.20\tank\tank\maintank.cpp(10): error C3861: “fillrectangle”: 找不到标识符
+d:\c++\quicksort2017.7.20\tank\tank\maintank.cpp(14): error C3861: “fillrectangle”: 找不到标识符
+d:\c++\quicksort2017.7.20\tank\tank\maintank.cpp(15): error C3861: “fillrectangle”: 找不到标识符
+d:\c++\quicksort2017.7.20\tank\tank\maintank.cpp(19): error C3861: “fillrectangle”: 找不到标识符
+d:\c++\quicksort2017.7.20\tank\tank\maintank.cpp(20): error C3861: “fillrectangle”: 找不到标识符
+  main.cpp
+d:\2015\vc\include\ege.h(59): fatal error C1189: #error:  can not include "conio.h" before "graphics.h"
+  Graphic.cpp
+  正在生成代码...

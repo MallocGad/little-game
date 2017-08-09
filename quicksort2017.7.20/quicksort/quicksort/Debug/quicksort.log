@@ -1,0 +1,4 @@
+﻿  quicksort.cpp
+d:\c++\quicksort2017.7.20\quicksort\quicksort\quicksort.cpp(150): warning C4042: “count2”: 有坏的存储类
+  quicksort.vcxproj -> D:\c++\quicksort2017.7.20\quicksort\Debug\quicksort.exe
+  quicksort.vcxproj -> D:\c++\quicksort2017.7.20\quicksort\Debug\quicksort.pdb (Full PDB)

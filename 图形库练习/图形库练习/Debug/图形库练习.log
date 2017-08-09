@@ -1,0 +1,18 @@
+﻿  practise.cpp
+d:\c++\图形库练习\图形库练习\practise.cpp(514): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(535): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(539): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(559): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(560): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(597): error C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: 参见“getche”的声明
+d:\c++\图形库练习\图形库练习\practise.cpp(624): warning C4129: “c”: 不可识别的字符转义序列
+d:\c++\图形库练习\图形库练习\practise.cpp(624): warning C4129: “: 不可识别的字符转义序列
+d:\c++\图形库练习\图形库练习\practise.cpp(624): warning C4129: “D”: 不可识别的字符转义序列
+d:\c++\图形库练习\图形库练习\practise.cpp(624): error C2664: “BOOL PlaySoundW(LPCWSTR,HMODULE,DWORD)”: 无法将参数 1 从“const char [41]”转换为“LPCWSTR”
+  d:\c++\图形库练习\图形库练习\practise.cpp(624): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
